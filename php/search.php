@@ -40,7 +40,7 @@ class TableRows extends RecursiveIteratorIterator {
   }
 }
 
-$servername = "localhost";
+$servername = "andersmarkendahl.ddns.net";
 $username = "guest";
 $password = "guest";
 $dbname = "danDB";
